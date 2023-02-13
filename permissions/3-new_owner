@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgr betty hello
+sudo betty hello
